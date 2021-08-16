@@ -4,7 +4,7 @@
 1. docker 
     1. bitrix
     2. wordpress
-    3. other
+    3. other images and containers
 2. flameshot 
 3. vscode
 4. phpstorm
