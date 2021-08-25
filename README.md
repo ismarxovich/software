@@ -7,7 +7,7 @@
 #### Fedora setup after installing
 
     $ sudo dnf check-update
-    $ sduo dnf update
+    $ sudo dnf update
 
 #### Docker installing
 
